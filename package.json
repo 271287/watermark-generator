@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "jimp": "^0.16.1"
+  },
+  "devDependencies": {
+    "@babel/runtime-corejs3": "^7.13.9",
+    "core-js": "^3.9.1"
+  }
+}
